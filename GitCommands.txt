@@ -1,0 +1,6 @@
+Step-1) create a directory and cd to that directory
+Step-2) type “git clone <git url link>”
+Step-3) git add . (should be under the repo folder u created)
+Step-4) git status
+Step-5) git commit –m “this is my first commit”
+Step-6) git push –u origin main
